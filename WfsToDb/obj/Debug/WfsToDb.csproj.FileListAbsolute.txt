@@ -1,0 +1,14 @@
+C:\Users\HDSL115\Desktop\WfsToDb\WfsToDb\bin\Debug\WfsToDb.exe.config
+C:\Users\HDSL115\Desktop\WfsToDb\WfsToDb\bin\Debug\WfsToDb.exe
+C:\Users\HDSL115\Desktop\WfsToDb\WfsToDb\bin\Debug\WfsToDb.pdb
+C:\Users\HDSL115\Desktop\WfsToDb\WfsToDb\obj\Debug\WfsToDb.exe
+C:\Users\HDSL115\Desktop\WfsToDb\WfsToDb\obj\Debug\WfsToDb.pdb
+C:\Users\HDSL115\Desktop\WfsToDb\WfsToDb\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HDSL115\Desktop\WfsToDb\WfsToDb\obj\Debug\WfsToDb.csprojResolveAssemblyReference.cache
+E:\My_Task\WfsToDb\WfsToDb\bin\Debug\WfsToDb.exe.config
+E:\My_Task\WfsToDb\WfsToDb\obj\Debug\WfsToDb.exe
+E:\My_Task\WfsToDb\WfsToDb\obj\Debug\WfsToDb.pdb
+E:\My_Task\WfsToDb\WfsToDb\bin\Debug\WfsToDb.exe
+E:\My_Task\WfsToDb\WfsToDb\bin\Debug\WfsToDb.pdb
+E:\My_Task\WfsToDb\WfsToDb\bin\Debug\Newtonsoft.Json.dll
+E:\My_Task\WfsToDb\WfsToDb\obj\Debug\WfsToDb.csprojResolveAssemblyReference.cache
